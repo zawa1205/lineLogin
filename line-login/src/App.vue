@@ -1,14 +1,20 @@
 <template>
   <div id="app">
-    <div id="nav">
+    <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+      <router-link to="/signIn">signIn</router-link> |
+      <router-link to="/signUp">signUp</router-link>
+    </div> -->
     <router-view/>
   </div>
 </template>
 
 <style lang="scss">
+body {
+  background-color: rgb(241, 242, 244);
+
+  
+}
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
