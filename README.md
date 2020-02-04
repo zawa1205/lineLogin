@@ -1,9 +1,7 @@
 # lineLogin
 
-## サイトURL
-```
-https://linelogin-zawa.firebaseapp.com
-```
+サイトは[こちら](https://linelogin-zawa.firebaseapp.com)
+
 
 ### 概要
 firebaseの、メールログイン機能を使ってLINE風のログインを実装してみました。
